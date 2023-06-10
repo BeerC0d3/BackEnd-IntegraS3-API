@@ -1,2 +1,2 @@
 # BackEnd-IntegraS3-API
-proyecto del api para administrar el context de os manuales y realizar conexion co la api ChatGPT
+proyecto del api para administrar el context de los manuales y realizar conexion con la api ChatGPT y Firebase.
