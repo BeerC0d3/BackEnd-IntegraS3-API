@@ -1,0 +1,381 @@
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\appsettings.Development.json
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\appsettings.json
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.exe
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.deps.json
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.runtimeconfig.json
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.pdb
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Core.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Core.pdb
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.AssemblyReference.cache
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.AssemblyInfoInputs.cache
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.AssemblyInfo.cs
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.CoreCompileInputs.cache
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\scopedcss\bundle\BeerC0d3.API.styles.css
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.CopyComplete
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\refint\BeerC0d3.API.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.pdb
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.genruntimeconfig.cache
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\obj\Debug\net6.0\ref\BeerC0d3.API.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Humanizer.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\AutoMapper.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\EntityFramework.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\appsettings.Development.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\appsettings.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.exe
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.deps.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.runtimeconfig.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.pdb
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\AutoMapper.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\EntityFramework.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Humanizer.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Core.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Core.pdb
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.AssemblyReference.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.AssemblyInfoInputs.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.AssemblyInfo.cs
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.CoreCompileInputs.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets\msbuild.BeerC0d3.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets\msbuild.build.BeerC0d3.API.props
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BeerC0d3.API.props
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BeerC0d3.API.props
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\scopedcss\bundle\BeerC0d3.API.styles.css
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.CopyComplete
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\refint\BeerC0d3.API.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.pdb
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.genruntimeconfig.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\ref\BeerC0d3.API.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\appsettings.Development.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\appsettings.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.exe
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.deps.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.runtimeconfig.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.pdb
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\AutoMapper.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\EntityFramework.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Humanizer.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Core.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Core.pdb
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.AssemblyReference.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.AssemblyInfoInputs.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.AssemblyInfo.cs
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.CoreCompileInputs.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets\msbuild.BeerC0d3.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets\msbuild.build.BeerC0d3.API.props
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BeerC0d3.API.props
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BeerC0d3.API.props
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\scopedcss\bundle\BeerC0d3.API.styles.css
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.CopyComplete
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\refint\BeerC0d3.API.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.pdb
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.genruntimeconfig.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\ref\BeerC0d3.API.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\appsettings.json
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.exe
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.deps.json
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.runtimeconfig.json
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.API.pdb
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\EntityFramework.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Firebase.Storage.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Humanizer.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Core.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Firebase.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Firebase.pdb
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Core.pdb
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.AssemblyReference.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.AssemblyInfoInputs.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.AssemblyInfo.cs
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.CoreCompileInputs.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\scopedcss\bundle\BeerC0d3.API.styles.css
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.csproj.CopyComplete
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\refint\BeerC0d3.API.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.pdb
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\BeerC0d3.API.genruntimeconfig.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.API\obj\Debug\net6.0\ref\BeerC0d3.API.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Firebase.Auth.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Firebase.Storage.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Firebase.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Firebase.pdb
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Firebase.Auth.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Firebase.Storage.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Firebase.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.API\bin\Debug\net6.0\BeerC0d3.Firebase.pdb

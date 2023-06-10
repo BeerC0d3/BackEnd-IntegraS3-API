@@ -1,0 +1,68 @@
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.deps.json
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Core.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Core.pdb
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.AssemblyReference.cache
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.AssemblyInfoInputs.cache
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.AssemblyInfo.cs
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.CopyComplete
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\refint\BeerC0d3.Infrastructure.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\ref\BeerC0d3.Infrastructure.dll
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.runtimeconfig.json
+C:\ProyectosDiego\BeerC0d3\BeerC0d3.Template.NetCore\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.genruntimeconfig.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.deps.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.runtimeconfig.json
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Core.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Core.pdb
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.AssemblyReference.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.AssemblyInfoInputs.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.AssemblyInfo.cs
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.CopyComplete
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\refint\BeerC0d3.Infrastructure.dll
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.genruntimeconfig.cache
+C:\ProyectLean\ChatGPT\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\ref\BeerC0d3.Infrastructure.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.deps.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.runtimeconfig.json
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Core.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Core.pdb
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.AssemblyReference.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.AssemblyInfoInputs.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.AssemblyInfo.cs
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.CopyComplete
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\refint\BeerC0d3.Infrastructure.dll
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.genruntimeconfig.cache
+C:\GIT\IA.Len.Demo\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\ref\BeerC0d3.Infrastructure.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.deps.json
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.runtimeconfig.json
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Core.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\bin\Debug\net6.0\BeerC0d3.Core.pdb
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.AssemblyInfo.cs
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.csproj.CopyComplete
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\refint\BeerC0d3.Infrastructure.dll
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.pdb
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\BeerC0d3.Infrastructure.genruntimeconfig.cache
+C:\Projects_Devops\IA_Demo_IntegraS3\03 - API IntegraS3\BeerC0d3.Infrastructure\obj\Debug\net6.0\ref\BeerC0d3.Infrastructure.dll

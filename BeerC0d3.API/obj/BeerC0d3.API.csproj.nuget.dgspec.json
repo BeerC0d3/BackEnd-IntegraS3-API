@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.API\\BeerC0d3.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.API\\BeerC0d3.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.API\\BeerC0d3.API.csproj",
+        "projectName": "BeerC0d3.API",
+        "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.API\\BeerC0d3.API.csproj",
+        "packagesPath": "C:\\Users\\diego.luna\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego.luna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj": {
+                "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj"
+              },
+              "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Core\\BeerC0d3.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Core\\BeerC0d3.Core.csproj",
+        "projectName": "BeerC0d3.Core",
+        "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Core\\BeerC0d3.Core.csproj",
+        "packagesPath": "C:\\Users\\diego.luna\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego.luna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj",
+        "projectName": "BeerC0d3.Firebase",
+        "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj",
+        "packagesPath": "C:\\Users\\diego.luna\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Firebase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego.luna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj",
+        "projectName": "BeerC0d3.Infrastructure",
+        "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\diego.luna\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego.luna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Core\\BeerC0d3.Core.csproj": {
+                "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Core\\BeerC0d3.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
