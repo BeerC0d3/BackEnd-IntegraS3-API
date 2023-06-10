@@ -7925,19 +7925,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diego.luna\\.nuget\\packages\\": {}
+    "C:\\Users\\jose.martinez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.API\\BeerC0d3.API.csproj",
+      "projectUniqueName": "C:\\Users\\jose.martinez\\OneDrive - Lennken Group\\Documentos\\RESPALDOS\\CURSOS 2022\\CHATgpt2023\\BackEnd-IntegraS3-API\\BeerC0d3.API\\BeerC0d3.API.csproj",
       "projectName": "BeerC0d3.API",
-      "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.API\\BeerC0d3.API.csproj",
-      "packagesPath": "C:\\Users\\diego.luna\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.API\\obj\\",
+      "projectPath": "C:\\Users\\jose.martinez\\OneDrive - Lennken Group\\Documentos\\RESPALDOS\\CURSOS 2022\\CHATgpt2023\\BackEnd-IntegraS3-API\\BeerC0d3.API\\BeerC0d3.API.csproj",
+      "packagesPath": "C:\\Users\\jose.martinez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jose.martinez\\OneDrive - Lennken Group\\Documentos\\RESPALDOS\\CURSOS 2022\\CHATgpt2023\\BackEnd-IntegraS3-API\\BeerC0d3.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diego.luna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jose.martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7951,11 +7951,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj": {
-              "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj"
+            "C:\\Users\\jose.martinez\\OneDrive - Lennken Group\\Documentos\\RESPALDOS\\CURSOS 2022\\CHATgpt2023\\BackEnd-IntegraS3-API\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj": {
+              "projectPath": "C:\\Users\\jose.martinez\\OneDrive - Lennken Group\\Documentos\\RESPALDOS\\CURSOS 2022\\CHATgpt2023\\BackEnd-IntegraS3-API\\BeerC0d3.Firebase\\BeerC0d3.Firebase.csproj"
             },
-            "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj": {
-              "projectPath": "C:\\Projects_Devops\\IA_Demo_IntegraS3\\03 - API IntegraS3\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj"
+            "C:\\Users\\jose.martinez\\OneDrive - Lennken Group\\Documentos\\RESPALDOS\\CURSOS 2022\\CHATgpt2023\\BackEnd-IntegraS3-API\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\jose.martinez\\OneDrive - Lennken Group\\Documentos\\RESPALDOS\\CURSOS 2022\\CHATgpt2023\\BackEnd-IntegraS3-API\\BeerC0d3.Infrastructure\\BeerC0d3.Infrastructure.csproj"
             }
           }
         }
@@ -8016,7 +8016,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
