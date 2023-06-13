@@ -35,3 +35,5 @@ El proyecto esta basado en una arquitectura *unit of work and repository*, el cu
 4. BeerC0d3.Infrastructure
   - Permite la creción de los repositorios dentro de la base SQL, desde usuarios, tokens y menús.
   -
+
+### Pruebas
