@@ -24,5 +24,14 @@ El proyecto esta basado en una arquitectura *unit of work and repository*, el cu
 
 ### Estructura del proyecto
 1. BeerC0d3.API.
-En este proyecto se encuentran los controlares a usar para realizar las solicitudes (Post,Get etc.), Aquí es donde el cliente se conecta mediante una llamada a UsuariosController para obtener el token que le permitira realizar todas las peticiones que necesite.
-El ContextoSoporteController permite realizar la carga y actualizar los contextos que son enviados a travez de
+  - En este proyecto se encuentran los controlares a usar para realizar las solicitudes (Post,Get etc.), Aquí es donde el cliente se conecta mediante una llamada a UsuariosController para obtener el token que le permitira     realizar todas las peticiones que necesite.
+  - El ContextoSoporteController permite realizar la carga y actualizar los contextos que son enviados a travez de archivos Base64 por el cliente.
+
+2. BeerC0d3.Core.
+  - Encargado de las interfaces que se implementan 
+
+3. BeerC0d3.Firebase.
+  - Encargado de realizar la conexión con Firebase, permite cargar y actualizar archivos.
+4. BeerC0d3.Infrastructure
+  - Permite la creción de los repositorios dentro de la base SQL, desde usuarios, tokens y menús.
+  -
